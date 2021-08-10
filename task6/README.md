@@ -1,7 +1,7 @@
-# Task 5: Use Force Bridge to Deposit Tokens From Ethereum to Polyjuice
+# Task 6: Use Force Bridge to Deposit Tokens From Ethereum to Polyjuice
 
 1) A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address:
-![generate](./generate1.png)
+![generate](./genration.png)
 
 2) Your Deposit Receiver Address (in text format):
 ```
