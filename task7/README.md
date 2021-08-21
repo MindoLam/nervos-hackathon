@@ -4,9 +4,9 @@
 
 ![](./dapp1.png)
 
-![](./dapp2png)
+![](./dapp2.png)
 
-![](./dapp3png)
+![](./dapp3.png)
 
 
 2) Link to the GitHub repository with your application which has been ported to Godwoken.:
