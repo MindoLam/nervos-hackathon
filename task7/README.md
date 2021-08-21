@@ -4,7 +4,11 @@
 
 ![](./dapp1.png)
 
+# After Subtraction
+
 ![](./dapp2.png)
+
+# After Addition
 
 ![](./dapp3.png)
 
