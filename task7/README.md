@@ -8,7 +8,7 @@
 
 ![](./dapp2.png)
 
-# After Addition
+# After Multiplication
 
 ![](./dapp3.png)
 
@@ -27,9 +27,9 @@ https://github.com/MindoLam/Calculator-Nervos-Dapp
     {
       "inputs": [
         {
-          "internalType": "uint256",
+          "internalType": "int256",
           "name": "x",
-          "type": "uint256"
+          "type": "int256"
         }
       ],
       "name": "add",
@@ -40,12 +40,38 @@ https://github.com/MindoLam/Calculator-Nervos-Dapp
     {
       "inputs": [
         {
-          "internalType": "uint256",
+          "internalType": "int256",
           "name": "y",
-          "type": "uint256"
+          "type": "int256"
         }
       ],
       "name": "subtract",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "int256",
+          "name": "w",
+          "type": "int256"
+        }
+      ],
+      "name": "divide",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "int256",
+          "name": "z",
+          "type": "int256"
+        }
+      ],
+      "name": "multiply",
       "outputs": [],
       "stateMutability": "payable",
       "type": "function"
@@ -55,9 +81,9 @@ https://github.com/MindoLam/Calculator-Nervos-Dapp
       "name": "show",
       "outputs": [
         {
-          "internalType": "uint256",
+          "internalType": "int256",
           "name": "",
-          "type": "uint256"
+          "type": "int256"
         }
       ],
       "stateMutability": "view",
