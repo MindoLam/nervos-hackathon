@@ -10,7 +10,7 @@
 
 # After Multiplication
 
-![](./dapp3.png)
+![](./dapp4.png)
 
 
 2) Link to the GitHub repository with your application which has been ported to Godwoken.:
