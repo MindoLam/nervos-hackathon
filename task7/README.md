@@ -16,7 +16,19 @@
 2) Link to the GitHub repository with your application which has been ported to Godwoken.:
 https://github.com/MindoLam/Calculator-Nervos-Dapp
 
-3) ABI:
+
+3)
+Smart Contract Address:
+```
+0xEC9f1aA277D40Ae1774F01C59765b07F4ccE6624
+```
+4) Transaction Hash of Smart Contract:
+```
+0x392f56b46724cabd2254dc83ce8667fc773346e1000d38372bf72ee0b29b1a85
+```
+
+
+5) ABI:
 ```
 [
     {
